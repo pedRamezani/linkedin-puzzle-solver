@@ -27,7 +27,7 @@ Instructions:
     + `python zip_solve.py`
 
 > [!NOTE]
-> If you have changed the name of the JSON file or saved it in a different directory to the script, you must pass the pathname as the first argument to the script.
+> If you have renamed the JSON file or saved it in a different directory to the script, you must specify the file path as the first argument in the script.
 
 ## Output Examples
 
